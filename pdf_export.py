@@ -1,5 +1,5 @@
 """
-Exportacao PDF do resultado TAF - usa fpdf (1.7.2, pure Python)
+Exportacao PDF do resultado TAF - usa fpdf2 (>=2.7.0, pure Python)
 """
 from fpdf import FPDF
 from datetime import datetime
